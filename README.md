@@ -1,7 +1,7 @@
 # oneindex
 Onedrive Directory Index
 
-## 功能：
+## 功 能：
 不用服务器空间，不走服务器流量，  
 
 直接列onedrive目录，文件直链下载。  
